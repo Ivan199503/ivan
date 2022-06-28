@@ -112,7 +112,7 @@ main {
 	}
 }
 @media screen and (max-width: 800px){
-		h1 {
+	h1 {
 		font-size: 1.7em;
 		font-weight: lighter;
 		padding: 0;
@@ -186,4 +186,3 @@ footer .logo{
 	margin-left: -15%;
 }
 }
-

@@ -111,7 +111,6 @@ main {
 		padding: 0;
 	}
 }
-
 @media screen and (max-width: 800px){
 	h1 {
 		font-size: 1.5em;
@@ -135,6 +134,56 @@ main {
 		font-weight: bold;
 		padding: 0;
 	}
-	
+
+	.zamerchik{
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+	.zamerchik a{
+		min-height: 1em;
+	}
+
+	.line6{
+		padding-left: 4%;
+		padding-right: 4%;
+	}	
+	.line4{
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+	.zayvka h1{
+		letter-spacing: 0.1em;
+		font-size: 1em;
+		font-weight: bold;
+	}
+	.line5 a{
+		margin-top: 4%;
+		width: 40%;
+		min-height: 1.5em;
+	}
+	.line5 h1{
+		letter-spacing: 0.5em;
+		font-size: 1em;
+		font-weight: bold;
+	}
+.menu li{
+	font-size: 1.5em;
+}
+header .flexibleimage{
+	margin-right: 0%;
+	margin-left: 0%;
+	margin-top: -6%;
+	min-height: 1.5em;
+	min-width: 5em;
+}
+footer{
+	font-size: 1.1em;
+}
+footer .logo{
+	min-height: 1.5em;
+	min-width: 5em;
+	margin-right: 0%;
+	margin-left: -15%;
+}
 }
 
